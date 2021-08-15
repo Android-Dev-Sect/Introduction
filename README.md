@@ -66,4 +66,7 @@
 8. Анимация сворачивания/разворачивания плеера
 9. Бонус: реализовать свой системный пикер папок
 10. Бонус: поддержка темной темы
-###### Пример макетов
+##### Пример макетов
+Menu             |  Player
+:-------------------------:|:-------------------------:
+<img src="https://github.com/Android-Dev-Sect/Introduction/blob/main/Menu.png" width="50%" height="50%">  |  <img src="https://github.com/Android-Dev-Sect/Introduction/blob/main/Player.png" width="50%" height="50%">
